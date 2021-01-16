@@ -1,0 +1,96 @@
+* License
+
+** Levels
+
+*** Technician
+
+*** General
+
+    Need to get here for HF.
+
+*** Amateur Extra
+
+* Gear
+
+** Baofang
+
+   Cheap Chinese gear.
+
+   Good starter radio.
+
+   Replace the antenna early.
+
+** Microbit X
+
+   Let's you do HF on low power.
+
+* Test
+
+  Multiple choice.
+
+  A lot of [[http://arrlexamreview.appspot.com/][practice tests]] available.
+
+  80% passing score.
+
+  Morse code requirement removed about 10 years ago.
+
+  #+BEGIN_QUOTE
+  Study to pass the test.
+
+  -Mad Dog
+  #+END_QUOTE
+  
+  #+BEGIN_QUOTE
+  They want everyone who takes the test to pass.
+
+  -K
+  #+END_QUOTE
+
+* Activities
+
+** Repeating
+
+   Be a bro, seed don't leech.
+
+** Communications Volunteer
+
+   Help out with public events like the Boston Marathon to help relay information.
+
+** Apocalypse Preparation
+
+   Yell into the void after the grid goes down.
+
+** Field Day
+
+   Make as many contacts as you can.
+
+   Log information into a giant database and see how many contacts you can get.
+
+   Get to see and use a lot of gear from others.
+
+** Logging Infomration
+
+   Find new signals and log it for the world to hear.
+
+** Open Source VOIP Community
+
+   Not too sure what this is, but some new side network with new numbers.
+
+* Community
+
+** HAMs
+   Users of HAM radio.
+   True meaning of name lost to time.
+
+   Nice group overall.
+   Sound a lot like model train people.
+
+** Elmer
+
+   A HAM radio mentor.
+
+** Log
+
+   It's typical to keep a log book of different contacts you've made.
+
+   Game-ified to hit different awards (i.e. total contacts, furthest distance)
